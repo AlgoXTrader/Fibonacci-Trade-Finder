@@ -5,7 +5,7 @@ Important Notice:
 
 
   
-- Used Fibonacci retracement for trades is 0.786
+- 0.786 Fibonacci retracement is used for trade signals.
 - 
   ![image](https://github.com/AlgoXTrader/Fibonacci-Trade-Finder/assets/151068288/ce31aaa1-ca70-4c2c-b5d2-25fa801f1972)
 
