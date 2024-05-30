@@ -2,7 +2,7 @@ This Python script scans Binance-USDM market for all timeframes and provides rea
 
 Important Notice:
 - Setup your own Telegram Bot if you want alerts.
--
+
 
   
 - Used Fibonacci retracement for trades is 0.786
